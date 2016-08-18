@@ -1,0 +1,20 @@
+.myForm {
+    margin-top: 200px;
+}
+
+body {
+    background-color: #ccc;
+    background-image: url(background.jpg);
+}
+
+label {
+    color: white;
+}
+
+.successBody{
+  background-image: url(success.jpg);
+}
+
+.failBody{
+  background-image: url(failure.jpg);
+}
